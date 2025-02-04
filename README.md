@@ -43,7 +43,7 @@ Este projeto implementa um sistema de temporização para acionamento de LEDs us
    git clone https://github.com/ViniciusLemosDev/EmbarcatechOneShot
    cd https://github.com/ViniciusLemosDev/EmbarcatechOneShot
    ```
-3. Carregue o arquivo `.uf2` no Raspberry Pi Pico.
+3. Compile e Execute o código pelo simulador do Wokwi no VSCode.
 
 ## Conclusão
 
