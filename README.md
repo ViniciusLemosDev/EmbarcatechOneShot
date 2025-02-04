@@ -6,7 +6,7 @@ Este projeto implementa um sistema de temporização para acionamento de LEDs us
 ## Desenvolvido por
 - Vinicius Lemos de Carvalho 
 
-## Funcionamento
+## 📌 Funcionamento
 1. O usuário pressiona o botão conectado ao GPIO 5.
 2. Todos os LEDs (azul, vermelho e verde) acendem simultaneamente.
 3. Um temporizador inicia uma sequência de desligamento:
@@ -15,7 +15,7 @@ Este projeto implementa um sistema de temporização para acionamento de LEDs us
    - Após 9 segundos, o LED verde desliga.
 4. Durante esse processo, o botão não pode ser pressionado novamente até que todos os LEDs estejam apagados.
 
-## Componentes Utilizados
+## 🛠 Componentes Utilizados
 - Raspberry Pi Pico W
 - 1 × LED vermelho
 - 1 × LED azul
